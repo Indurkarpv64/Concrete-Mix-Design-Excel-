@@ -1,1 +1,4 @@
 # Concrete-Mix-Design-Excel-
+An MS Excel Dashboard for Civil Engineering Application. In Civil Engineering, the quality of concrete decides the quality of the structure being built. Concrete mix design is the process of deciding the quantities of Cement, Sand, Aggregate and Water to give the desired quality of concrete. As it appears, the issue is CTQ(Critical To Quality) in the industry. POlus the process is tedious, iterative and demands skill and experience. Thruogh this project, I have tried to build and end to end dashboard that takes various required inputs and prints the final report of Concrete Mix Design. 
+
+Further Reading on Mix Design: https://concretesupplyco.com/concrete-mix-design/#:~:text=Concrete%20mix%20design%20involves%20a,durability%20for%20the%20concrete%20structure.&text=The%20ingredients%20to%20be%20tested,chemicals%2C%20reinforcement%2C%20and%20soil.
